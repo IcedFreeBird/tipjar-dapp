@@ -105,10 +105,6 @@ npm run dev
 npx hardhat test
 ```
 
-## Contributing
-
-Contributions via Issues and Pull Requests to improve this project are welcome.
-
 ## License
 
 MIT

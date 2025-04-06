@@ -106,10 +106,6 @@ npm run dev
 npx hardhat test
 ```
 
-## 贡献
-
-欢迎提交 Issues 和 Pull Requests 来改进这个项目。
-
 ## 许可证
 
 MIT
