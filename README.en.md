@@ -1,5 +1,7 @@
 # TipJar DApp - Blockchain Tipping Application (Learning Project)
 
+English | [中文版](./README.md)
+
 ![TipJar Logo](https://img.shields.io/badge/TipJar-DApp-blue)
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.28-blue)
 ![React](https://img.shields.io/badge/React-19.x-61dafb)
